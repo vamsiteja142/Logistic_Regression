@@ -1,0 +1,25 @@
+Logistic Regression
+
+The Logistic Regression or Logistic Model also called the Logit Model is a classification algorithm that predicts a categorical feature based on a set of independent variables. Logistic Regression is one of the simplest classification algorithms that can be used to predict values for a categorical dependent variable.
+
+For a deeper understanding of Logistic Regression, use the following resources:
+
+An Introduction to Logistic Regression
+Logistic Regression Analysis
+Logistic Regression
+In this practise session, we will learn to code Logistic Regression.We will perform the following steps to build a simple classifier using the popular Iris dataset. You can find the dataset here.
+
+Step 1. Data Preprocessing 
+
+Importing the libraries.
+Importing dataset (Dataset Link https://archive.ics.uci.edu/ml/datasets/iris).
+Dealing with the categorical variable.
+Classifying dependent and independent variables.
+Splitting the data into a training set and test set.
+Feature scaling.
+Step 2. Logistic Regression 
+
+Create a Logistic classifier.
+Feed the training data to the classifier.
+Predicting the species for the test set.
+Using the confusion matrix to find accuracy.
